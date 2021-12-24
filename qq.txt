@@ -6,3 +6,5 @@ now i have crated ff3 branch
 now i have created ff5 branch
 now i have created jjj branch from github
 now i have created aaa branch 
+
+git clone --single-branch --branch <banch name> <remote-repo>
